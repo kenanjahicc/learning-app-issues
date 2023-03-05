@@ -28,7 +28,8 @@ TeachMe includes the following pages:
 
 
 ## 4. Functionality
-
+  4.1 Homepage
+  
 
 ## 5. Technical requirements
 
