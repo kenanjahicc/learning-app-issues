@@ -35,7 +35,13 @@ TeachMe includes the following pages:
 The TeachMe is built using the following technologies:
 
 Backend: Java, Spring, PostgreSQL #11 #13
+
+
 Frontend: Angular #12
+
+
 The app Frontend/Backend is hosted on a Netlify/Heroku cloud server respectively.
+
+
 
 ## 6. Out of scope
