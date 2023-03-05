@@ -11,6 +11,7 @@ TeachMe is not just for students who need extra help with a particular subject. 
 ## 2. Features
 
 TeachMe includes the following features:
+
 -Search for Professors: Students can search for professors by subject, availability, and price.
 -Professor Profiles: Each professor has their own profile where students can view their credentials, experience, teaching style, and reviews from other students.
 -Private Classes: Students can schedule private classes with professors at a time that works for them.
