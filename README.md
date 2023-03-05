@@ -45,3 +45,5 @@ The app Frontend/Backend is hosted on a Netlify/Heroku cloud server respectively
 
 
 ## 6. Out of scope
+
+Group Classes: TeachMe focuses on providing personalized one-on-one instruction, so group classes would be out of scope for the project.
