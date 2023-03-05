@@ -46,10 +46,10 @@ The app Frontend/Backend is hosted on a Netlify/Heroku cloud server respectively
 
 ## 6. Out of scope
 
-Group Classes: TeachMe focuses on providing personalized one-on-one instruction, so group classes would be out of scope for the project.
+- Group Classes: TeachMe focuses on providing personalized one-on-one instruction, so group classes would be out of scope for the project.
 
-Social Media Integration: Integrating social media features into TeachMe, such as the ability to share professor profiles or lesson materials, could help students build a community of learners and educators.
+- Social Media Integration: Integrating social media features into TeachMe, such as the ability to share professor profiles or lesson materials, could help students build a community of learners and educators.
 
-Language Support: Expanding language support beyond Bosnian could help TeachMe reach a wider audience of students and professors around the world.
+- Language Support: Expanding language support beyond Bosnian could help TeachMe reach a wider audience of students and professors around the world.
 
-Skill Assessments: Incorporating skill assessments into the app could help students identify their strengths and weaknesses in a given subject, as well as suggest appropriate professors to work with.
+- Skill Assessments: Incorporating skill assessments into the app could help students identify their strengths and weaknesses in a given subject, as well as suggest appropriate professors to work with.
