@@ -20,15 +20,12 @@ TeachMe includes the following features:
 - and more
 
 ## 3. User Interface
+TeachMe includes the following pages:
 - Homepage
 - Profile page
 - Login/Register page
 - Confirmation page
-TeachMe includes the following pages:
--
--
--
--
+
 
 ## 4. Functionality
 
