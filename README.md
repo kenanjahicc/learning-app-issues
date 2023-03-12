@@ -28,31 +28,36 @@ TeachMe includes the following pages:
 
 
 ## 4. Functionality
-  &nbsp;&nbsp;&nbsp;&nbsp;**4.1 Login/Register page**   
-        The first page that opens, simple login and register functionality    
-        
-  &nbsp;&nbsp;&nbsp;&nbsp;**4.2 Homepage**
-  
-  The homepage will contain general information. It will be different depending of the user.
-  Teachers will have different homepage and students different. The homepage will contain links for detail inforamtion, such as: about us.
-       
-  &nbsp;&nbsp;&nbsp;&nbsp;**4.2.1 Studetn dashboard**
-        
-  Students will be able to edit 
-        
-  &nbsp;&nbsp;&nbsp;&nbsp;**4.2.1 Teacher dashboard**
-      
-      
-  &nbsp;&nbsp;&nbsp;&nbsp;**4.3 Messaging page**
-      
-      
-  &nbsp;&nbsp;&nbsp;&nbsp;**4.4 Search page**
-      
-      
-      
-  &nbsp;&nbsp;&nbsp;&nbsp;**4.6 Profile details page**
-      
 
+ &nbsp;&nbsp;&nbsp;&nbsp; **4.1 Home page:**
+- Displays a welcome message and a brief description of the app's purpose.
+- Provides links to login or sign up for both students and teachers.
+ &nbsp;&nbsp;&nbsp;&nbsp; **4.2 Student registration page:**
+- Allows students to create an account by entering their name, email address, and a password.
+- Asks for additional information such as their school, grade level, and subjects they need help with.
+ &nbsp;&nbsp;&nbsp;&nbsp; **4.3 Teacher registration page:**
+- Allows teachers to create an account by entering their name, email address, and a password.
+- Asks for additional information such as their qualifications, teaching experience, and availability.
+ &nbsp;&nbsp;&nbsp;&nbsp; **4.4 Login page:**
+- Allows users to enter their email address and password to access their account.
+- Provides links to reset forgotten passwords.
+ &nbsp;&nbsp;&nbsp;&nbsp;**4.5 Dashboard page:**
+- Displays a summary of the user's account information, including their name, profile picture, and account status.
+- Allows students to search for available teachers based on subject, availability, and price.
+- Allows teachers to manage their profile, availability, and pricing.
+ &nbsp;&nbsp;&nbsp;&nbsp;**4.6 Booking page:**
+- Allows students to book private classes with a selected teacher by selecting a date and time slot.
+- Provides options for payment, cancellation, and rescheduling.
+- Sends confirmation emails to both the student and the teacher.
+ &nbsp;&nbsp;&nbsp;&nbsp;**4.7 Class page:**
+- Displays information about the upcoming class, including the date, time, subject, and teacher's name.
+- Provides a chat interface for the student and the teacher to communicate before and during the class.
+- Allows the teacher to share materials such as presentations and exercises.
+ &nbsp;&nbsp;&nbsp;&nbsp; **4.8 Feedback page:**
+- Allows students to rate and provide feedback on their classes and teachers.
+- Provides a mechanism for resolving disputes and complaints.
+  
+   
   
 
 ## 5. Technical requirements
