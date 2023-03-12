@@ -18,7 +18,7 @@ TeachMe includes the following features:
 - Private Classes: Students can schedule private classes with professors at a time that works for them.
 - Ratings and Reviews: After each private class, students can rate and review their professor, providing valuable feedback for future students.
 - Notifications: The app sends notifications (via mail) to remind students of upcoming classes and other important updates.
-- Massaging: it will enable communication between professors and students
+- Messaging: it will enable communication between professors and students
 - Login/Register functionality: provides functions for new and old users.
 - Social Media Integration: Integrating social media features into TeachMe, such as the ability to share professor profiles or lesson materials, that help students build a community of learners and educators.
 
