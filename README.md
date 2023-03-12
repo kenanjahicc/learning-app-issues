@@ -24,7 +24,7 @@ TeachMe includes the following features:
 
 ## 3. User Interface
 TeachMe includes the following pages:
-- Homepage
+- Home page
 - Profile page
 - Login/Register page
 - Confirmation page
