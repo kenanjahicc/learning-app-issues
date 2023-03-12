@@ -32,34 +32,34 @@ TeachMe includes the following pages:
 **4.1 Home page:**    
 - Displays a welcome message and a brief description of the app's purpose.  
 - Provides links to login or sign up for both students and teachers.    
-- 
+
 **4.2 Student registration page:**    
 - Allows students to create an account by entering their name, email address, and a password.  
 - Asks for additional information such as their school, grade level, and subjects they need help with. 
--  
+
 **4.3 Teacher registration page:**    
 - Allows teachers to create an account by entering their name, email address, and a password.  
 - Asks for additional information such as their qualifications, teaching experience, and availability.  
-- 
+
 **4.4 Login page:**    
 - Allows users to enter their email address and password to access their account.  
 - Provides links to reset forgotten passwords.  
-- 
+
 **4.5 Dashboard page:**    
 - Displays a summary of the user's account information, including their name, profile picture, and account status.  
 - Allows students to search for available teachers based on subject, availability, and price.  
 - Allows teachers to manage their profile, availability, and pricing.  
-- 
+
 **4.6 Booking page:**   
 - Allows students to book private classes with a selected teacher by selecting a date and time slot.  
 - Provides options for payment, cancellation, and rescheduling.  
 - Sends confirmation emails to both the student and the teacher.  
-- 
+
 **4.7 Class page:**    
 - Displays information about the upcoming class, including the date, time, subject, and teacher's name.  
 - Provides a chat interface for the student and the teacher to communicate before and during the class.  
 - Allows the teacher to share materials such as presentations and exercises.  
-- 
+
 **4.8 Feedback page:**   
 - Allows students to rate and provide feedback on their classes and teachers.  
 - Provides a mechanism for resolving disputes and complaints.  
