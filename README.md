@@ -30,7 +30,7 @@ TeachMe includes the following pages:
 ## 4. Functionality
 
  &nbsp;&nbsp;&nbsp;&nbsp;  **4.1 Home page:**    
-- Displays a welcome message and a brief description of the app's purpose.  
+&nbsp;&nbsp;&nbsp;&nbsp; - Displays a welcome message and a brief description of the app's purpose.  
 - Provides links to login or sign up for both students and teachers.    
  &nbsp;&nbsp;&nbsp;&nbsp;  **4.2 Student registration page:**    
 - Allows students to create an account by entering their name, email address, and a password.  
