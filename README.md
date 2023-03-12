@@ -36,7 +36,7 @@ TeachMe includes the following pages:
   The homepage will contain general information. It will be different depending of the user.
   Teachers will have different homepage and students different. The homepage will contain links for detail inforamtion, such as: about us.
        
-  &nbsp&nbsp&nbsp&nbsp4.2.1 Studetn dashboard
+  &nbsp;&nbsp;&nbsp;&nbsp;4.2.1 Studetn dashboard
         
   Students will be able to edit 
         
