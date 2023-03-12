@@ -14,10 +14,13 @@ TeachMe includes the following features:
 
 - Search for Professors: Students can search for professors by subject, availability, and price.
 - Professor Profiles: Each professor has their own profile where students can view their credentials, experience, teaching style, and reviews from other students.
+- Student Profiles: Each student has theit own profile with general information.
 - Private Classes: Students can schedule private classes with professors at a time that works for them.
 - Ratings and Reviews: After each private class, students can rate and review their professor, providing valuable feedback for future students.
 - Notifications: The app sends notifications (via mail) to remind students of upcoming classes and other important updates.
-- and more
+- Massaging: it will enable communication between professors and students
+- Login/Register functionality: provides functions for new and old users.
+- Social Media Integration: Integrating social media features into TeachMe, such as the ability to share professor profiles or lesson materials, that help students build a community of learners and educators.
 
 ## 3. User Interface
 TeachMe includes the following pages:
@@ -25,7 +28,10 @@ TeachMe includes the following pages:
 - Profile page
 - Login/Register page
 - Confirmation page
-
+- Dashboard page 
+- Booking page
+- Class page
+- Feedback page
 
 ## 4. Functionality
 
@@ -51,8 +57,7 @@ TeachMe includes the following pages:
 - Allows teachers to manage their profile, availability, and pricing.  
 
 **4.6 Booking page:**   
-- Allows students to book private classes with a selected teacher by selecting a date and time slot.  
-- Provides options for payment, cancellation, and rescheduling.  
+- Allows students to book private classes with a selected teacher by selecting a date and time slot.   
 - Sends confirmation emails to both the student and the teacher.  
 
 **4.7 Class page:**    
@@ -84,8 +89,6 @@ The app Frontend/Backend is hosted on a Netlify/Heroku cloud server respectively
 ## 6. Out of scope
 
 - Group Classes: TeachMe focuses on providing personalized one-on-one instruction, so group classes would be out of scope for the project.
-
-- Social Media Integration: Integrating social media features into TeachMe, such as the ability to share professor profiles or lesson materials, could help students build a community of learners and educators.
 
 - Language Support: Expanding language support beyond Bosnian could help TeachMe reach a wider audience of students and professors around the world.
 
