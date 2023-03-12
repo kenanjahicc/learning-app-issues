@@ -32,6 +32,7 @@ TeachMe includes the following pages:
         The first page that opens, simple login and register functionality    
         
   4.2 Homepage
+  
   The homepage will contain general information. It will be different depending of the user.
   Teachers will have different homepage and students different. The homepage will contain links for detail inforamtion, such as: about us.
        
