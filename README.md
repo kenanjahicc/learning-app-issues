@@ -29,7 +29,7 @@ TeachMe includes the following pages:
 
 ## 4. Functionality
   4.1 Login/Register page   
-        The first page that opens, simple login and register functionality
+        The first page that opens, simple login and register functionality    
   4.2 Homepage
       
   4.3 Messaging page
