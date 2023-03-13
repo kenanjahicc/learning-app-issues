@@ -21,6 +21,7 @@ TeachMe includes the following features:
 - Messaging: it will enable communication between professors and students
 - Login/Register functionality: provides functions for new and old users.
 - Social Media Integration: Integrating social media features into TeachMe, such as the ability to share professor profiles or lesson materials, that help students build a community of learners and educators.
+- Support: Users can reach out to admins and report any issues they have encountered as well as ask for assistance and help. The support page will have a contact form along with a FaQ section
 
 ## 3. User Interface
 TeachMe includes the following pages:
@@ -32,6 +33,7 @@ TeachMe includes the following pages:
 - Booking page
 - Class page
 - Feedback page
+- Support page
 
 ## 4. Functionality
 
@@ -69,8 +71,11 @@ TeachMe includes the following pages:
 - Allows students to rate and provide feedback on their classes and teachers.  
 - Provides a mechanism for resolving disputes and complaints.  
   
-   
-  
+**4.9 Support page:**     
+- Provides answers to all common questions that users might have.
+- Provides all of the neccessary contact information users might need.
+- Features a form that they can fill out as a means of reporting issues they have encountered either with the service or with the page.  
+
 
 ## 5. Technical requirements
 
